@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ecen5730_board_a.PcbDoc   1/25/2024  7:04:37 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ecen5730_board_a-RoundHoles.TXT
+ASCII SlotHoles File : ecen5730_board_a-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.33mm (13mil)                                            Round             11        PTH        113.75mm (4.48inch)
+T2      1mm (39mil)                                               Round             5         PTH        39.22mm (1.54inch)
+T3      1mm (39mil)                                               Slot              1         PTH        1.50mm (0.06inch)
+T4      1.016mm (40mil)                                           Round             12        PTH        83.11mm (3.27inch)
+T5      1.02mm (40mil)                                            Round             6         PTH        36.60mm (1.44inch)
+T6      1.2mm (47mil)                                             Slot              2         PTH        15.86mm (0.62inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+
+Total Processing Time (hh:mm:ss) : 00:00:00

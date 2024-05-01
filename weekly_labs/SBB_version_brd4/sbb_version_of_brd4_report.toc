@@ -1,0 +1,14 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Objective / Purpose of Lab}{2}{section.1}%
+\contentsline {section}{\numberline {2}Component listing}{2}{section.2}%
+\contentsline {section}{\numberline {3}Explanation}{3}{section.3}%
+\contentsline {section}{\numberline {4}Measurement}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Function Generator as a Known Source}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Bench Power Supply}{8}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Bench Power Supply with Known Resistance}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Unknown Voltage Sources}{11}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}5V Wall Wart}{11}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}9V battery}{12}{subsubsection.4.4.2}%
+\contentsline {section}{\numberline {5}Learnings and Observation}{13}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{13}{section.6}%

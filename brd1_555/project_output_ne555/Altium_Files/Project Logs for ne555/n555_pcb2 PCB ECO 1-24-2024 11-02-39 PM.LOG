@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=SW1 NewDesignator=POWER
+Change Component Designator: OldDesignator=SW2 NewDesignator=555_SW
+Change Component Designator: OldDesignator=SW3 NewDesignator=OUTPUT_SW
+Change Net Name : Old Net Name=NetC1_2 New Net Name=Net555_SW_1
+Change Net Name : Old Net Name=NetSW3_1 New Net Name=NetOUTPUT_SW_1

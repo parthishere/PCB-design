@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=GND Pin=LED2-2
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=SW1 NewDesignator=Power_SW1
+Change Component Designator: OldDesignator=SW2 NewDesignator=HexSelectSW1
+Change Component Designator: OldDesignator=SW3 NewDesignator=OutputSW1
+Change Component Designator: OldDesignator=TP4 NewDesignator=PowerTestrProbe1
+Change Component Designator: OldDesignator=TP5 NewDesignator=1
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP4
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP5
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP6
+Added Component: Designator=LED1(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008201033_Foshan-NationStar-Optoelectronics-NCD1206B1_C130717.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C130717"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NCD1206B1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Blue"; VariantName = "[No Variations]"
+Added Component: Designator=PowerSelectSW1(3_PIN_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=304982371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C49257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PREC003SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 3POS 2.54MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetC2_2 Pin=PowerSelectSW1-1
+Added Pin To Net: NetName=VCC Pin=PowerSelectSW1-2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=Net1_1
+Change Net Name : Old Net Name=NetSW2_2 New Net Name=NetHexSelectSW1_2
+Change Net Name : Old Net Name=NetTP6_1 New Net Name=NetTP4_1
+Change Net Name : Old Net Name=NetTP7_1 New Net Name=NetTP5_1
+Change Net Name : Old Net Name=NetTP8_1 New Net Name=NetTP6_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetPower_SW1_2 Pin=Power_SW1-2
+Added Pin To Net: NetName=NetPower_SW1_2 Pin=PowerSelectSW1-3
+Added Net: Name=NetPower_SW1_2
+Added Member To Class: ClassName=board2_schematic Member=Component PowerSelectSW1 PREC003SAAN-RC
+Added Rule: Name=Schematic Width Constraint_3

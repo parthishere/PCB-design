@@ -1,0 +1,18 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Block diagram of ne555}}{5}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Block diagram of Hex board}}{5}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Schematic}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Breadboard Implementation for 555 board}}{8}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Breadboard Implementation for Hex board}}{8}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Top layer PCB}}{9}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Manufactured PCB}}{9}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces PCB with components soldered}}{10}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces First time turning on the PCB and selecting good layout}}{10}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces First time turning on the PCB(selecting bad layout)}}{11}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Fall time with load connected}}{13}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Fall time with load connected}}{14}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Fall time with load connected}}{15}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Bad layout Quite high Rise \& Fall time with load connected}}{16}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Bad layout Quite Low Rise \& Fall time with load connected}}{17}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Good layout Quite High Rise \& Fall time with load connected}}{20}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Good layout Quite Low Rise \& Fall time with load connected}}{21}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Voltage drop due to load resistance}}{23}{figure.18}%

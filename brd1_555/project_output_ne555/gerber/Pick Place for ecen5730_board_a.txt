@@ -1,0 +1,40 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ne555\Project Outputs for ne555\Pick Place for ecen5730_board_a.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/01/24
+Time:       09:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                    "LCSC Part#" "MFR Part #"    
+C1         10uF                  TopLayer 1206_Passive_Capacitor 720.000mil    1871.000mil   90       "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               C1848        CL31B105KBHNNNE 
+R2         Pot                   TopLayer potentiometer          1770.000mil   1830.000mil   0        "3 pin potentiometer, Through hole component"                                                  ""           ""              
+D1         diode                 TopLayer Through_hole_diode     2590.000mil   1750.000mil   90       ""                                                                                             ""           ""              
+U1         NE555DR               TopLayer TS555IDTTR             2120.000mil   1500.000mil   90       "555 Timer SOIC-8_150MIL ROHS 150ns Rise Time"                                                 C7593        NE555DR         
+TP2        "LED Test probe"      TopLayer TP10x_Probe            3080.000mil   1700.000mil   180      "Test Point 300 mil centers"                                                                   ""           ""              
+TP3        "10x Probe TP"        TopLayer TP10x_Probe            1610.000mil   870.000mil    180      "Test Point 300 mil centers"                                                                   ""           ""              
+TP1        "10x Probe TP"        TopLayer TP10x_Probe            770.000mil    1290.000mil   180      "Test Point 300 mil centers"                                                                   ""           ""              
+OUTPUT_SW1 SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       2170.000mil   800.000mil    270      "2Pin Header"                                                                                  C124375      ""              
+1          SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       1700.000mil   1570.000mil   90       "2Pin Header"                                                                                  C124375      ""              
+POWER1     SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       1405.000mil   1800.000mil   90       "2Pin Header"                                                                                  C124375      ""              
+R4         50Ohm                 TopLayer 1206_Passive_Resitor   2480.000mil   1020.000mil   270      "50O ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                              C17936       1206W4F4701T5E  
+R7         300Ohm                TopLayer 1206_Passive_Resitor   2780.000mil   1020.000mil   270      "300O ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                             C17936       1206W4F4701T5E  
+R6         1KOhm                 TopLayer 1206_Passive_Resitor   3040.000mil   1020.000mil   270      "1kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                              C17936       1206W4F4701T5E  
+R5         10KOhm                TopLayer 1206_Passive_Resitor   3340.000mil   1020.000mil   270      "4.7kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                            C17936       1206W4F4701T5E  
+R3         4.7KOhm               TopLayer 1206_Passive_Resitor   2141.000mil   1910.000mil   180      "4.7kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                            C17936       1206W4F4701T5E  
+R1         1KOhm                 TopLayer 1206_Passive_Resitor   1180.000mil   1500.000mil   0        "1kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"                              C17936       1206W4F4701T5E  
+PS1        AMS1117-5.0           TopLayer LDO                    935.079mil    1720.000mil   270      "LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 1A 15V 5V 1A SOT-223 ROHS"                  C6187        AMS1117-5.0     
+P1         "Power Jack"          TopLayer Power_Jack             433.110mil    1718.465mil   180      "Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle" C136744      PJ-102A         
+LED5       Blue                  TopLayer LED_1206               2480.000mil   680.000mil    90       "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  C130717      NCD1206B1       
+LED4       Blue                  TopLayer LED_1206               2780.000mil   680.000mil    90       "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  C130717      NCD1206B1       
+LED3       Blue                  TopLayer LED_1206               3040.000mil   680.000mil    90       "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  C130717      NCD1206B1       
+LED2       Blue                  TopLayer LED_1206               3340.000mil   680.000mil    90       "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  C130717      NCD1206B1       
+LED1       Blue                  TopLayer LED_1206               1400.000mil   1500.000mil   180      "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  C130717      NCD1206B1       
+C5         0.1uF                 TopLayer 1206_Passive_Capacitor 2020.000mil   1180.000mil   0        "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               C1848        CL31B105KBHNNNE 
+C4         1uF                   TopLayer 1206_Passive_Capacitor 2380.000mil   1600.000mil   180      "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               C1848        CL31B105KBHNNNE 
+C3         22uF                  TopLayer 1206_Passive_Capacitor 1900.000mil   1480.000mil   90       "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               C1848        CL31B105KBHNNNE 
+C2         22uF                  TopLayer 1206_Passive_Capacitor 1200.000mil   1880.000mil   0        "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               C1848        CL31B105KBHNNNE 

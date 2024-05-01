@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: \\vmware-host\Shared Folders\work\All_Data\university\PCB\ECEN5730_NameTags_2023-01\ECEN5730_NameTags_2023-01\Name_Tags_B.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

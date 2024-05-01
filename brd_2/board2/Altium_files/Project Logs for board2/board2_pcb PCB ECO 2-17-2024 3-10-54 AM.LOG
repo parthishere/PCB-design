@@ -1,0 +1,26 @@
+Change Component Designator: OldDesignator=bad_high_tp NewDesignator=TP6
+Change Component Designator: OldDesignator=bad_led_tp NewDesignator=TP8
+Change Component Designator: OldDesignator=bad_low_tp NewDesignator=TP5
+Change Component Designator: OldDesignator=bad_noload_tp NewDesignator=TP4
+Change Component Designator: OldDesignator=good_high_tp NewDesignator=TP3
+Change Component Designator: OldDesignator=good_led_tp NewDesignator=TP7
+Change Component Designator: OldDesignator=good_low_tp NewDesignator=TP2
+Change Component Designator: OldDesignator=good_noload_tp NewDesignator=TP1
+Added Component: Designator=R11(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Output555 Pin=R11-1
+Added Pin To Net: NetName=VCC Pin=R11-2
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=Output555_2 Pin=R12-2
+Added Member To Class: ClassName=board2_schematic Member=Component R11 10k
+Added Member To Class: ClassName=board2_schematic Member=Component R12 10k

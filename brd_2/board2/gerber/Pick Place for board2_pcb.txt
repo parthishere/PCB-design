@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\board2\Project Outputs for board2\Pick Place for board2_pcb.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/02/24
+Time:       03:28
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator       Comment               Layer    Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                    
+R12              10k                   TopLayer 1206_Passive_Resitor   2590.000      1620.000      90       "10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"     
+R11              10k                   TopLayer 1206_Passive_Resitor   2690.000      1620.000      270      "10 kOhms ±5% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200 Thick Film"     
+TP8              "10x Probe TP"        TopLayer TP10x_Probe            1395.000      315.000       0        "Test Point 300 mil centers"                                                                   
+TP7              "10x Probe TP"        TopLayer TP10x_Probe            3200.000      360.000       0        "Test Point 300 mil centers"                                                                   
+DecapSW          SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       830.000       1725.000      0        "2Pin Header"                                                                                  
+PowerSelectSW1   PREC003SAAN-RC        TopLayer 3_PIN_100mil           1395.000      3300.000      90       "Connector Header Through Hole 3 position 0.100" (2.54mm)"                                     
+LED1             Blue                  TopLayer LED_1206               1970.000      3420.000      0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+U3               LMC555CMX/NOPB        TopLayer TS555IDTTR             2688.109      3115.600      90       "555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO"                                             
+U2               SN74AHC14DR           TopLayer HEX_74AC14             795.000       865.000       0        "Inverter IC 6 Channel Schmitt Trigger 14-SOIC"                                                
+U1               SN74AHC14DR           TopLayer HEX_74AC14             2780.000      855.000       0        "Inverter IC 6 Channel Schmitt Trigger 14-SOIC"                                                
+TP6              "10x Probe TP"        TopLayer TP10x_Probe            270.000       785.000       180      "Test Point 300 mil centers"                                                                   
+TP5              "10x Probe TP"        TopLayer TP10x_Probe            270.000       555.000       180      "Test Point 300 mil centers"                                                                   
+TP4              "10x Probe TP"        TopLayer TP10x_Probe            270.000       325.000       180      "Test Point 300 mil centers"                                                                   
+1                "10x Probe TP"        TopLayer TP10x_Probe            3260.000      3355.000      180      "Test Point 300 mil centers"                                                                   
+PowerTestrProbe1 "10x Probe TP"        TopLayer TP10x_Probe            1685.000      3145.000      270      "Test Point 300 mil centers"                                                                   
+TP3              "10x Probe TP"        TopLayer TP10x_Probe            2270.000      870.000       180      "Test Point 300 mil centers"                                                                   
+TP2              "10x Probe TP"        TopLayer TP10x_Probe            2270.000      640.000       180      "Test Point 300 mil centers"                                                                   
+TP1              "10x Probe TP"        TopLayer TP10x_Probe            2270.000      430.000       180      "Test Point 300 mil centers"                                                                   
+OutputSW1        SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       3200.000      3100.000      0        "2Pin Header"                                                                                  
+HexSelectSW1     PREC003SAAN-RC        TopLayer 3_PIN_100mil           2655.000      1830.000      0        "Connector Header Through Hole 3 position 0.100" (2.54mm)"                                     
+Power_SW1        SW_2Pin_100mil_Switch TopLayer 2Pin-Header-Conn       745.000       3310.000      90       "2Pin Header"                                                                                  
+R10              50R                   TopLayer 1206_Passive_Resitor   1415.000      660.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R9               1k                    TopLayer 1206_Passive_Resitor   2820.000      2745.000      90       "CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"                                      
+R8               1k                    TopLayer 1206_Passive_Resitor   2825.000      3400.000      180      "CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"                                      
+R7               50R                   TopLayer 1206_Passive_Resitor   1415.000      770.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R6               50R                   TopLayer 1206_Passive_Resitor   1415.000      900.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R5               1k                    TopLayer 1206_Passive_Resitor   2614.000      3400.000      180      "CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"                                      
+R4               50R                   TopLayer 1206_Passive_Resitor   3320.000      685.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R3               50R                   TopLayer 1206_Passive_Resitor   3330.000      820.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R2               50R                   TopLayer 1206_Passive_Resitor   3335.000      960.000       180      "CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS"                                      
+R1               1k                    TopLayer 1206_Passive_Resitor   1745.000      3425.000      180      "CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS"                                      
+PS1              AMS1117-3.3           TopLayer LDO                    1014.921      3115.000      90       "LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS"             
+P1               "Power Jack"          TopLayer Power_Jack             433.110       3218.465      180      "Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle" 
+LED8             Blue                  TopLayer LED_1206               2640.000      2690.000      180      "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED7             Blue                  TopLayer LED_1206               1185.000      655.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED6             Blue                  TopLayer LED_1206               1180.000      775.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED5             Blue                  TopLayer LED_1206               1175.000      900.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED4             Blue                  TopLayer LED_1206               3115.000      690.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED3             Blue                  TopLayer LED_1206               3115.000      820.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+LED2             Blue                  TopLayer LED_1206               3120.000      950.000       0        "blue 1206  Light Emitting Diodes (LED) ROHS"                                                  
+C7               1uF                   TopLayer 1206_Passive_Capacitor 2880.000      3121.000      90       "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               
+C6               1uF                   TopLayer 1206_Passive_Capacitor 2640.000      2800.000      0        "MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS"                               
+C5               22pF                  TopLayer 1206_Passive_Capacitor 2500.000      3125.000      270      "22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                      
+C4               22pF                  TopLayer 1206_Passive_Capacitor 429.000       1720.000      0        "22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                      
+C3               10uF                  TopLayer 1206_Passive_Capacitor 1265.000      3055.000      90       "10uF ±10% 50V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                     
+C2               10uF                  TopLayer 1206_Passive_Capacitor 710.000       3000.000      0        "10uF ±10% 50V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                     
+C1               22pF                  TopLayer 1206_Passive_Capacitor 2890.000      1100.000      0        "22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"                      

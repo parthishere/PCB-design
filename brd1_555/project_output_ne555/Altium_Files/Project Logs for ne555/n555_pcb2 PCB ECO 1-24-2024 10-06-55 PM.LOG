@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=555_5v Pin=R3-2
+Removed Pin From Net: NetName=555_5v Pin=U1-7
+Removed Member From Class: ClassName=ne555 Member=R3
+Change component parameters: Designator = "R4" ("R4"); Footprint = "1206_Passive_Resitor"; UniqueID = "\DJUQUJBE" ("\DJUQUJBE")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810301414_UNI-ROYAL-Uniroyal-Elec-1206W4F4701T5E_C17936.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17936"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "1206W4F4701T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(potentiometer)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=555_5v Pin=R2-2
+Added Pin To Net: NetName=NetR2_3 Pin=R2-3
+Added Pin To Net: NetName=NetR2_3 Pin=R4-2
+Added Pin To Net: NetName=NetR2_3 Pin=U1-7
+Added Net: Name=NetR2_3
+Added Member To Class: ClassName=ne555 Member=Component R2 Potentiometer

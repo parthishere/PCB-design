@@ -1,0 +1,12 @@
+Change Component Comment : Designator=U1 Old Comment=LMC555CMX/NOPB New Comment=NE555DR
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TS555IDTTR"; UniqueID = "\QOJZYDEP" ("\QOJZYDEP")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/NE555DR/296-6501-1-ND/372490"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C7593"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "NE555DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Component: Designator=*(Through hole diode)
+Added Pin To Net: NetName=NetD1_2 Pin=*-1
+Added Pin To Net: NetName=NetC4_2 Pin=*-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=Net*_2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=Net*_1
+Added Member To Class: ClassName=ne555 Member=Component * diode

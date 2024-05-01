@@ -1,0 +1,17 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{2}{section*.3}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Project Plan}{3}{section.2}%
+\contentsline {section}{\numberline {3}Risk Management}{4}{section.3}%
+\contentsline {section}{\numberline {4}Block Diagram, Schematic and Layout}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Block Diagram}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Component listings}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Schematic Overview}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Layout Considerations}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Manufacturing and Assembly}{9}{section.5}%
+\contentsline {section}{\numberline {6}Code / Bootloading }{19}{section.6}%
+\contentsline {section}{\numberline {7}Output Waveforms / Measurement}{21}{section.7}%
+\contentsline {subsection}{\numberline {7.1}\textbf {Overview:}}{39}{subsection.7.1}%
+\contentsline {section}{\numberline {8}What worked ?}{40}{section.8}%
+\contentsline {section}{\numberline {9}Mistakes Made}{40}{section.9}%
+\contentsline {section}{\numberline {10}Learnings}{40}{section.10}%

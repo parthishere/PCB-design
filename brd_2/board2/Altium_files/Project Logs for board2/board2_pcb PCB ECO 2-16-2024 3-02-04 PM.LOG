@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R9-1
+Added Net: Name=NetLED8_1
+Added Member To Class: ClassName=board2_schematic Member=Component LED1 Blue
+Added Member To Class: ClassName=board2_schematic Member=Component LED2 Blue
+Added Member To Class: ClassName=board2_schematic Member=Component TP4 10x Probe TP

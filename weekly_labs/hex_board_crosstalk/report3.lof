@@ -1,0 +1,26 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces PDN circuit block diagram from book}}{4}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Ring oscillator with Hex board}}{5}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Ring Occilator}}{6}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Series Ring Oscillator}}{6}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Ring Occilator output}}{7}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces 555 Timer rise time}}{8}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Hex inverter Rise time}}{9}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Noise due to 1 pins toggling(60.3mV peak to peak)}}{11}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Noise due to 2 pins toggling(60.3mV peak to peak)}}{11}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Noise due to 3 pins toggling(80.4mV peak to peak)}}{12}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Noise due to 4 pins toggling(120.8mV peak to peak)}}{12}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Noise due to 5 pins toggling(140.7mV peak to peak)}}{13}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Noise due to all 6 pins toggling(341.7mV peak to peak)}}{13}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Noise due to 1 pins toggling(1.427V peak to peak)}}{14}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Noise due to 2 pins toggling(2.33V peak to peak)}}{15}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Noise due to 3 pins toggling(3.01V peak to peak)}}{15}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Noise due to 4 pins toggling(3.65V peak to peak)}}{16}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Noise due to 5 pins toggling(4.22V peak to peak)}}{16}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Noise due to all 6 pins toggling(4.5V peak to peak)}}{17}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Noise due to 1 pins toggling(321.6mV peak to peak)}}{18}{figure.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Noise due to 2 pins toggling(562.8mV peak to peak)}}{18}{figure.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Noise due to 3 pins toggling(683.4mV peak to peak)}}{19}{figure.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Noise due to 4 pins toggling(763.8mV peak to peak)}}{19}{figure.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Noise due to 5 pins toggling(924.6mV peak to peak)}}{20}{figure.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Noise due to all 6 pins toggling(1.047V peak to peak)}}{20}{figure.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Crosstalk board}}{22}{figure.26}%

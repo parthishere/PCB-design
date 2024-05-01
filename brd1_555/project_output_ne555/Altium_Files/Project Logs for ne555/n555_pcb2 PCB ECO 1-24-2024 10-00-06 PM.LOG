@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=ne555 Member=D1
+Removed Member From Class: ClassName=ne555 Member=R2
+Added Pin To Net: NetName=555_5v Pin=R3-2
+Added Pin To Net: NetName=555_5v Pin=U1-7

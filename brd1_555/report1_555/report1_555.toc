@@ -1,0 +1,26 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{2}{section*.3}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Project Plan}{3}{section.2}%
+\contentsline {section}{\numberline {3}Risk Management}{3}{section.3}%
+\contentsline {section}{\numberline {4}Block Diagram, Schematic and Layout}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Block Diagram Description}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Component listings}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Schematic Overview}{5}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Layout Considerations}{5}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Manufacturing and Assembly}{6}{section.5}%
+\contentsline {section}{\numberline {6}Calculations for Duty Cycle and Frequency}{8}{section.6}%
+\contentsline {section}{\numberline {7}Output Waveforms}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Power Rail noise}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Output without Load}{11}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}555 with no Load}{11}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}555 Rise time with no Load}{12}{subsubsection.7.2.2}%
+\contentsline {subsubsection}{\numberline {7.2.3}555 Fall time with no Load}{12}{subsubsection.7.2.3}%
+\contentsline {subsection}{\numberline {7.3}Output with Load}{13}{subsection.7.3}%
+\contentsline {subsubsection}{\numberline {7.3.1}555 with Load}{13}{subsubsection.7.3.1}%
+\contentsline {subsubsection}{\numberline {7.3.2}555 Rise time with Load}{13}{subsubsection.7.3.2}%
+\contentsline {subsubsection}{\numberline {7.3.3}555 Fall time with Load}{14}{subsubsection.7.3.3}%
+\contentsline {section}{\numberline {8}Calculating Thevenin resistance for 555}{15}{section.8}%
+\contentsline {section}{\numberline {9}What worked ?}{17}{section.9}%
+\contentsline {section}{\numberline {10}Mistakes Made}{17}{section.10}%
+\contentsline {section}{\numberline {11}Learnings}{17}{section.11}%

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [instrumentdroid.PrjPcb]
+   Generated File[PCB3-RoundHoles.TXT]
+   Generated File[PCB3-SlotHoles.TXT]
+   Generated File[PCB3.LDP]
+   Generated File[PCB3.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 9:29:57 PM On 4/11/2024

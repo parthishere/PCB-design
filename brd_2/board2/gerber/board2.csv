@@ -1,0 +1,15 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"10x Probe TP","Test Point 300 mil centers","1, PowerTestrProbe1, TP1, TP2, TP3, TP4, TP5, TP6, TP7, TP8","TP10x_Probe","TP_10x_Probe","10"
+"22pF","22pF ±5% 1kV C0G 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","C1, C4, C5","1206_Passive_Capacitor","C_22pF_1206","3"
+"10uF","10uF ±10% 50V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","C2, C3","1206_Passive_Capacitor","C_10uF_1206","2"
+"1uF","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS","C6, C7","1206_Passive_Capacitor","C_1uF_1206","2"
+"SW_2Pin_100mil_Switch","2Pin Header","DecapSW, OutputSW1, Power_SW1","2Pin-Header-Conn","SW_2Pin_100mil_Switch","3"
+"PREC003SAAN-RC","Connector Header Through Hole 3 position 0.100"" (2.54mm)","HexSelectSW1, PowerSelectSW1","3_PIN_100mil","SW_3Pin_100mil_Switch","2"
+"Blue","blue 1206  Light Emitting Diodes (LED) ROHS","LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8","LED_1206","LED_BLUE_1206","8"
+"Power Jack","Power Barrel Connector Jack 2.10mm ID (0.083""), 5.50mm OD (0.217"") Through Hole, Right Angle","P1","Power_Jack","P_Power Jack","1"
+"AMS1117-3.3","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS","PS1","LDO","PS_AMS_LDO_3v3","1"
+"1k","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","R1, R5, R8, R9","1206_Passive_Resitor","R_1K_1206","4"
+"50R","CHIP RESISTOR - SURFACE MOUNT 50OHMS ±1% 1/4W 1206 ROHS","R2, R3, R4, R6, R7, R10","1206_Passive_Resitor","R_1K_1206","6"
+"SN74AHC14DR","Inverter IC 6 Channel Schmitt Trigger 14-SOIC","U1, U2","HEX_74AC14","U_74AHC14","2"
+"LMC555CMX/NOPB","555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO","U3","TS555IDTTR","U_555_Fast","1"

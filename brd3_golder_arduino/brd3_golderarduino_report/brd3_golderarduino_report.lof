@@ -1,0 +1,44 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Block diagram for Golder arduino}}{5}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Schematic}}{6}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Breadboard Implementation for Golder arduino board}}{9}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Breadboard Implementation details}}{9}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Over all PCB}}{10}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Top layer}}{11}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Bottom layer}}{12}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces 3D view}}{13}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Without component}}{14}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces With component}}{15}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces First program running}}{16}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces \textbf {I have used micro b instead of mini B connector}}}{17}{figure.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Noise Shield used for taking reading}}{17}{figure.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces First time turning on the PCB and selecting good layout}}{19}{figure.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces First time turning on the PCB and selecting good layout}}{20}{figure.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Blinky Program output}}{21}{figure.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Drop of 47 ohm in the shield}}{22}{figure.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces switching noise on quiet low pin for rising edge}}{23}{figure.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces switching noise on quiet low pin for falling edge}}{23}{figure.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces switching noise on quiet high pin for rising edge}}{24}{figure.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces switching noise on quiet high pin for falling edge}}{24}{figure.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces switching noise on quiet low pin for rising edge}}{25}{figure.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces switching noise on quiet low pin for falling edge}}{26}{figure.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces switching noise on quiet high pin for rising edge}}{26}{figure.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces switching noise on quiet high pin for falling edge}}{27}{figure.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces switching noise on 5V power rail for rising edge}}{28}{figure.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces switching noise on 5V power rail for falling edge}}{28}{figure.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces switching noise on 5V power rail for rising edge}}{29}{figure.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces switching noise on 5V power rail for falling edge}}{29}{figure.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces switching noise on 5V power rail for rising edge}}{30}{figure.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces switching noise on 5V power rail for falling edge}}{31}{figure.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces switching noise on 5V power rail for rising edge}}{31}{figure.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces switching noise on 5V power rail for falling edge}}{32}{figure.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces near field emission measurement for commercial Arduino}}{33}{figure.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces near field emission measurement for commercial Arduino}}{33}{figure.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces near field emission measurement for Golden Arduino Rising Edge}}{34}{figure.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces near field emission measurement for Golden Arduino Falling Edge}}{34}{figure.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces in-rush current measurement}}{35}{figure.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces TX from Arduino}}{36}{figure.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces RX from Arduino}}{36}{figure.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces D+ and D- signals from USB}}{37}{figure.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Reset signal captured when the reset switch is pressed}}{38}{figure.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Oscillator}}{38}{figure.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Mistake in pin mapping}}{40}{figure.44}%

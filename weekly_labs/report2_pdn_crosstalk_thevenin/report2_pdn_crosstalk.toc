@@ -1,0 +1,17 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Objective / Purpose of Lab}{2}{section.1}%
+\contentsline {section}{\numberline {2}Component listing}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}For Lab Crosstalk and Thevenin R}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}For Lab PDNs}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Calculations}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Calculating Thevenin Resistance}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Cross Talk}{4}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Calculating Power rail noise due to switching}{5}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Initial Measurement with Slow Rise Time Signal:}{6}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Measurement with Fast Rise Time Signal:}{8}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Adding Decoupling Capacitors}{9}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Observation of Switching Noise Characteristics:}{12}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Estimating Decoupling Capacitor Size}{12}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Decoupling Capacitor Location}{12}{subsection.3.9}%
+\contentsline {section}{\numberline {4}Conclusion}{13}{section.4}%

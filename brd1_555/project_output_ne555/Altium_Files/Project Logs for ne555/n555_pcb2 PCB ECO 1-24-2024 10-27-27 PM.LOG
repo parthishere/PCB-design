@@ -1,0 +1,7 @@
+Added Component: Designator=*(Through hole diode)
+Added Pin To Net: NetName=NetR2_3 Pin=*-1
+Added Pin To Net: NetName=NetR2_3 Pin=*-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=Net*_2
+Change Net Name : Old Net Name=NetR2_3 New Net Name=Net*_1
+Added Member To Class: ClassName=ne555 Member=Component * diode

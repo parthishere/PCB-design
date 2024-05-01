@@ -1,0 +1,10 @@
+\contentsline {section}{List of Figures}{1}{section*.2}%
+\contentsline {section}{List of Tables}{1}{section*.3}%
+\contentsline {section}{\numberline {1}Objective / Purpose of Lab}{2}{section.1}%
+\contentsline {section}{\numberline {2}Component listing}{2}{section.2}%
+\contentsline {section}{\numberline {3}Explanation}{2}{section.3}%
+\contentsline {section}{\numberline {4}Procedure}{3}{section.4}%
+\contentsline {section}{\numberline {5}Code}{4}{section.5}%
+\contentsline {section}{\numberline {6}Measurement}{5}{section.6}%
+\contentsline {section}{\numberline {7}Learnings and Observation}{6}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{7}{section.8}%

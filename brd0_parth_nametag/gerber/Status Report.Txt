@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Name_Tag_SM_18_01_2023.PrjPcb]
+   Generated File[Name_Tags_B.TXT]
+   Generated File[Name_Tags_B.DRL]
+   Generated File[Name_Tags_B.LDP]
+   Generated File[Name_Tags_B.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:07:33 AM On 1/18/2024
